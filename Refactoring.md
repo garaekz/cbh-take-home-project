@@ -10,3 +10,4 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
+I've refactored the code by breaking down the logic into smaller, more manageable functions that are easier to understand. Each function has a descriptive name that reflects what it does and performs an specific task, making the code much more readable. Additionally, by breaking down the code into smaller functions, it becomes easier to write and maintain unit tests for each part of the code. I've also used modern JavaScript syntax and practices, making the code easier to understand for developers who are familiar with these conventions.
